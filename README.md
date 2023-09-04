@@ -116,10 +116,6 @@ no_of_special_requests: Total number of special requests made by the customer
 booking_status: Flag indicating if the booking was canceled or not
 
 
-# Files
-
-
-
 # Conclusion
 
 Through analysis, we have been able to create two models, a logistic and a random forest algorithm model. The logistic model prioritizes recall while the random forest algorithm has a slightly lower recall but far more accuracy. Clients that use our models can decide which best suits their company's needs and use them accordingly.
