@@ -51,7 +51,7 @@ The random forest algorithm was created in {Random_Forest_Algorithm.ipynb} <br>
 
 Data Dictionary for MLDataset.csv <br>
 
-Filter by Cuisine and itll show a bar graph which indicates a bar graph which <br>
+Filter by Cuisine and itll show a bar graph <br>
 
 long_trip: A boolean on whether or not the Sum of the number of weekday and weekend nights were greater than 2 <br>
 
